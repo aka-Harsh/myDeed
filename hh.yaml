@@ -1,0 +1,4 @@
+program:
+  language: Python
+  code: |
+    print("Hello, World!")
